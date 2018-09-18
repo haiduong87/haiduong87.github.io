@@ -1,0 +1,18 @@
+[{
+"id": "1",
+"name": "test1",
+"description": "description1",
+"columns":[{"id": "id", "name": {"en": "id"}, "type":"numeric"}
+          ,{"id": "code", "name": {"en": "code"}, "type":"hierarchy"}
+          ,{"id": "name", "name": {"en": "name"}, "type":"hierarchy"}]
+}
+,
+{
+"id": "2",
+"name": "test2",
+"description": "description2",
+"columns":[{"id": "id2", "name": {"en": "id2"}, "type":"numeric"}
+          ,{"id": "code2", "name": {"en": "code2"}, "type":"hierarchy"}
+          ,{"id": "name2", "name": {"en": "name2"}, "type":"hierarchy"}]
+}
+]
